@@ -5,7 +5,7 @@ public class StarTree {
             for(int star = 1; star < i + 1; star++) {
                 System.out.print("*");
             }
-         System.out.println();
+            System.out.println();
         }
     }
 }
